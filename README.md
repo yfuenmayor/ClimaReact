@@ -6,7 +6,7 @@ Aplicacion para consultar el clima de diferentes ciudades de algunos paises, en 
 ### `Librerias`
 
 Materialize: cargada desde el index.html<br />
-Enlace: [<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">]
+Enlace: [rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css"]
 
 ### `APIS`
 
